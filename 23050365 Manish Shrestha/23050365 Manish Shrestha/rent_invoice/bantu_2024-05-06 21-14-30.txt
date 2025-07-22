@@ -1,0 +1,6 @@
+Techno Property Nepal Multiple Land Rental Invoice
+--------------------------------------------------
+Date/Time: 2024-05-06 21:14:30
+Customer Name: bantu
+Land ID: 102, Location: Pokhara, Direction: East, Area (annas): 5, Duration (months): 5, Cost: Rs 300000
+Total Amount: Rs 300000

@@ -1,0 +1,6 @@
+Techno Property Nepal Multiple Land Return Invoice
+------------------------------------------------
+Date/Time: 2024-05-06_21_06_09
+Customer Name: manish
+Land ID: 102, Location: Pokhara, Direction: East, Area (annas): 5, Contract Duration (months): 5, Actual Duration (months): 2, Cost: Rs 300000, Fine: Rs 0
+Total Fine: Rs 0

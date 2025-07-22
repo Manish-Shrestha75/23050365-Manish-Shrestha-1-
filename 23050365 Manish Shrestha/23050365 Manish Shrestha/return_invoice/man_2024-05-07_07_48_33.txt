@@ -1,0 +1,6 @@
+Techno Property Nepal Multiple Land Return Invoice
+------------------------------------------------
+Date/Time: 2024-05-07_07_48_33
+Customer Name: man
+Land ID: 106, Location: Butwal, Direction: South, Area (annas): 6, Contract Duration (months): 5, Actual Duration (months): 5, Cost: Rs 300000, Fine: Rs 0
+Total Fine: Rs 0

@@ -1,0 +1,6 @@
+Techno Property Nepal Multiple Land Rental Invoice
+--------------------------------------------------
+Date/Time: 2024-05-07 07:50:26
+Customer Name: mk
+Land ID: 107, Location: Dharan, Direction: West, Area (annas): 9, Duration (months): 5, Cost: Rs 450000
+Total Amount: Rs 450000

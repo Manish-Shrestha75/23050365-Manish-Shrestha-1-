@@ -1,0 +1,6 @@
+Techno Property Nepal Multiple Land Rental Invoice
+--------------------------------------------------
+Date/Time: 2024-05-07 07:48:12
+Customer Name: man
+Land ID: 106, Location: Butwal, Direction: South, Area (annas): 6, Duration (months): 5, Cost: Rs 300000
+Total Amount: Rs 300000
